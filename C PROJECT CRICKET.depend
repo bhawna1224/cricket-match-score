@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672155073 source:c:\users\king\desktop\college projects\c project cricket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
